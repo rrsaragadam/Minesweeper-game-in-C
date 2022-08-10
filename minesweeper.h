@@ -2,8 +2,6 @@
 
 // A module with rules for the minesweeper game
 
-// SEASHELL_READONLY
-
 struct posn {
   int x;
   int y;
