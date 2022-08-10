@@ -1,18 +1,3 @@
-///////////////////////////////////////////////////////////////////////////// 
-// INTEGRITY STATEMENT (v3)
-//
-// By signing your name and ID below you are stating that you have agreed
-// to the online academic integrity statement:a
-// https://student.cs.uwaterloo.ca/~cs136/current/assignments/integrity.shtml
-/////////////////////////////////////////////////////////////////////////////
-// I received help from and/or collaborated with: 
-
-// None 
-//  
-// Name: Raj Saragadam 
-// login ID: rsaragad 
-/////////////////////////////////////////////////////////////////////////////
-
 #include "minesweeper.h"
 #include <assert.h>
 
